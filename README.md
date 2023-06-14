@@ -3,7 +3,7 @@ Burak Göv 21817068
 
 
 # Uzmanlar SRC Web Sayfası
-Bu web sitesi sayesinde kullanıcılar SRC hakkında bilgi sahibi olabilir. Aynı şekilde kursa gitmeği gereği ve aramasına gerek kalmadan kurs hakkında bilgi sahibi olabilir.
+Bu web sitesi sayesinde kullanıcılar SRC hakkında bilgi sahibi olabilir. Aynı şekilde kursa gitme gereğinde bulunmadan ve aramasına gerek kalmadan kurs hakkında bilgi sahibi olabilir.
 
 
 
